@@ -20,3 +20,5 @@ abcdefg
 
 
 Click [this link](#heading-1) for Heading 1 or [this link](https://google.de) for Google.
+
+More styling features are possible. Have a look on the [cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
